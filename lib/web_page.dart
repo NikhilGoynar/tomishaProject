@@ -83,7 +83,7 @@ class _WebScreenState extends State<WebScreen> {
                                         Padding(
                                           padding:
                                               EdgeInsetsDirectional.fromSTEB(
-                                                  0, 10, 0, 0),
+                                                  0, 13, 0, 0),
                                           child: Text(
                                             'Kostenlos Registrieren',
                                             textAlign: TextAlign.center,
